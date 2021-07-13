@@ -1,0 +1,17 @@
+p {
+  color: #657b83;
+  background-color: #fdf6e3;
+}
+
+.second-paragraph {
+    color: #b58900;
+  }
+
+  .cats {
+      background-image: url("/Users/Francesca/Documents/Work/Rutgers/DH/giannetti/html-css/intro/images/angoracathowtobr00jame.jpg");
+      background-color: #cccccc;
+  }
+
+#third-paragraph {
+    color: #d33682;
+  }
